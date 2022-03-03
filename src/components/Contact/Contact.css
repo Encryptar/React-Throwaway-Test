@@ -1,0 +1,6 @@
+.contact {
+    top: 10vh;
+    background-color: green;
+    height: 90vh;
+    scroll-snap-align: start;
+}
